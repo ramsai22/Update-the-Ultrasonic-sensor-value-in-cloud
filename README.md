@@ -217,7 +217,8 @@ long microsecondsToCentimeters(long microseconds)
 
 <img width="1919" height="1079" alt="Screenshot 2025-11-12 092423" src="https://github.com/user-attachments/assets/ff0251d8-f4ee-4b66-97b0-7129bf36b680" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-11-12 092423" src="https://github.com/user-attachments/assets/ff0251d8-f4ee-4b66-97b0-7129bf36b680" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-12 091659" src="https://github.com/user-attachments/assets/31900929-2b48-4b35-8746-60fb033b6c8c" />
+
 # RESULT:
 
 Thus the Ultrasonic sensor value is uploaded in the Things mate using Arduino controller.
